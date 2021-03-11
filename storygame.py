@@ -1,5 +1,7 @@
 # Created by Lisa Torro
 # V1 3/10/21
+# This is unfinished and simply brings up a GUI with a lable and two buttons that don't function.
+# Next step is to get buttons to go to a new page (start the game)
 
 import tkinter
 import tkinter.font
